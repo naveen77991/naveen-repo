@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1750178138,,"wq"
+|2,0,1750179159,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,20 +25,37 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/file2
-|4,48,1,13,1750178138,"~/file2"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
+'0  1  24  ~/file1
+|4,48,1,24,1750179159,"~/file1"
+'1  1  13  ~/file2
+|4,49,1,13,1750178138,"~/file2"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  1  24  ~/file1
+|4,39,1,24,1750179159,"~/file1"
+-'  1  13  ~/file2
+|4,39,1,13,1750178138,"~/file2"
 -'  1  13  ~/file2
 |4,39,1,13,1750178138,"~/file2"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1750176811,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/file1
+	*	1750179156	0
+	"	1	24
+	^	1	25
+	.	1	24
+	+	1	24
 
 > ~/file2
 	*	1750178135	0
